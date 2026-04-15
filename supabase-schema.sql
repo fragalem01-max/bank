@@ -86,7 +86,7 @@ VALUES (
   '0002532',
   'System Administrator',
   'admin@bank.com',
-  '$2a$12$LJ3N4EMVxUBqOSLYE2Mz4eV9RI5gLkZ8kS5qHfJ7YXzGQj4v6dXHi',
+  '$2b$12$rG2LTCu5Z.h2XPhuLVVmVu/n1zDnuj50h6uDSUklCGpJje9/Cfczy',
   'admin',
   'XX00000000000000000001',
   TRUE,
